@@ -1,0 +1,82 @@
+ body{font-family: serif;
+ background-color:seashell}
+ p#head{font-size: x-large;text-align: center; 
+    font-style: italic;font-weight: bolder;font-family:serif;}
+
+ p#topfont{color:antiquewhite;
+ text-align:right;font-size:large; font-style: italic;}
+
+ p#buttonfont{text-align: right; font-style: italic;color:cornsilk; font-size: large;}
+
+ div#top{color:antiquewhite;
+ background-image: url(head2.jpg);
+ background-size: 30cm 20cm;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;}
+
+   h2{text-align: center;
+    font-family:serif;
+    font-size: larger;}
+
+    h5{ text-align:center;
+    font-weight: lighter;}
+
+    div.gallery {
+        margin: 5px;
+        border: 1px solid #ccc;
+        float: left;
+        width: 180px;}
+      
+      
+          div.gallery img {
+         width: 100%;
+         height: 60%;
+          }
+      
+                div.desc {
+          padding: 15px;
+          text-align: center;
+         color:burlywood;
+         }
+          h1,h2,h5{
+          color:peru;}
+          
+
+          h1{font-weight: normal; font-style: italic;text-align: center;color:cornsilk;}
+          p#endfont{
+            text-align: left; text-orientation: sideways ;font-size:x-large ;font-style: italic;}
+           
+          p#fontend{text-align:left;font-style: italic;}
+          p#text{text-align: left;font-style: italic;}
+          P#shipping{text-align: left; font-style: italic;}
+         
+          div#buy-form{
+          background-image: url("end4.jpg");
+          background-repeat: no-repeat;
+         
+          color:cornsilk;
+         /* background-attachment: fixed;*/ 
+          background-size: 30cm 20cm ;
+         text-align:right;
+
+          }
+      
+         h4{ text-align:right;
+          text-decoration: wavy;
+          text-decoration-line: underline;
+          color:cornsilk;}
+
+           h1{color:cornsilk; text-decoration: wavy;font-style: italic;}
+             h6{text-align: center;color: peru;font-weight: normal;}
+             p#alert{
+               text-align: lef;
+               font-style: italic;
+               text-decoration-line: underline;
+             }
+            
+
+
+
+
+             
